@@ -1,1 +1,1 @@
-# Library-interactive-project
+# A Mini Library Management System
