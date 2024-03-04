@@ -1,1 +1,3 @@
-# A Mini Library Management System
+# Library Management System
+
+## Introduction 📝
